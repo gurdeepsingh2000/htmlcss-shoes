@@ -10,7 +10,7 @@
     position: relative;
 }
 
-.clearfix{
+.buttons::after{
     content:"";
     display: table;
     clear:both;
